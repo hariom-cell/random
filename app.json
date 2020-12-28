@@ -16,8 +16,8 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"100.96.1.2","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"Hamburg","country":"Germany","image":"germany","ip":"100.96.1.3","active":"true","signal":"b"},
-    {"id":2, "file":2, "city":"Los Angeles CA","country":"United States","image":"unitedstates","ip":"100.96.1.4","active":"true","signal":"c"}
+    {"id":0, "file":0, "city":"Torronto","country":"Canada","image":"Canada","ip":"100.96.1.2","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"Chicago","country":"United States of America","image":"Unitedstates","ip":"100.96.1.3","active":"true","signal":"b"},
+    {"id":2, "file":2, "city":"Sydney","country":"Australia","image":"Australia","ip":"100.96.1.4","active":"true","signal":"c"}
   ]
 }
