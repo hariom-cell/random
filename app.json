@@ -18,6 +18,6 @@
   "free":[
     {"id":0, "file":0, "city":"Torronto","country":"Canada","image":"canada","ip":"100.96.1.2","active":"true","signal":"a"},
     {"id":1, "file":1, "city":"Los Angeles CA","country":"United States","image":"unitedstates","ip":"100.96.1.3","active":"true","signal":"b"},
-    {"id":2, "file":2, "city":"Sydney","country":"Australia","image":"Australia","ip":"100.96.1.4","active":"true","signal":"c"}
+    {"id":2, "file":2, "city":"Sydney","country":"Australia","image":"australia","ip":"100.96.1.4","active":"true","signal":"c"}
   ]
 }
