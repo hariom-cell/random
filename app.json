@@ -1,1 +1,23 @@
-
+{
+  "ads":"true",
+  "update":[{
+    "version":"_",
+    "title":"_",
+    "description":"_",
+    "size":"_"
+  }],
+  "blocked":[
+    {"id":0, "app":"com.android.game"},
+    {"id":1, "app":"com.utorrent.client"},
+    {"id":2, "app":"com.torrent.client"},
+    {"id":3, "app":"com.tor.client"},
+    {"id":4, "app":"com.insta.client"},
+    {"id":5, "app":"com.facebook.client"},
+    {"id":6, "app":"com.get.client"}
+  ],
+  "free":[
+    {"id":0, "file":0, "city":"Torronto","country":"Canada","image":"canada","ip":"100.96.1.2","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"Chicago","country":"USA","image":"Unitedstates","ip":"100.96.1.3","active":"true","signal":"b"},
+    {"id":2, "file":2, "city":"Sydney","country":"Australia","image":"Australia","ip":"100.96.1.4","active":"true","signal":"c"}
+  ]
+}
